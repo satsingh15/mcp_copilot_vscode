@@ -59,9 +59,15 @@ uv run server.py
 More info here: https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-dotnet
 ![alt text](https://github.com/satsingh15/mcp_copilot_vscode/blob/main/images/mcp.json6.jpg?raw=true)
 
+
+
+
+
 13. Exciting moment now, try our tool in co-pilot chat
 ![alt text](https://github.com/satsingh15/mcp_copilot_vscode/blob/main/images/mcp.json7.jpg?raw=true)
 
-14. Hit continue
+
+
+14. Hit continue, Voila
 ![alt text](https://github.com/satsingh15/mcp_copilot_vscode/blob/main/images/mcp.json8.jpg?raw=true)
 
