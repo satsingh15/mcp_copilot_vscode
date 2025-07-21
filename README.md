@@ -56,7 +56,10 @@ uv run server.py
 
 
 12. Below content should be populated in mcp.json. This content helps co-pilot to recognize tool.
-More info here: https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-dotnet
+More info here: 
+https://code.visualstudio.com/docs/copilot/chat/mcp-servers
+https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-dotnet
+
 ![alt text](https://github.com/satsingh15/mcp_copilot_vscode/blob/main/images/mcp.json6.jpg?raw=true)
 
 
